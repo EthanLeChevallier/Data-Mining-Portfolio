@@ -1,0 +1,15 @@
+jupyter
+ipykernel
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+shap
+openpyxl
+mlxtend
+missingno
+networkx
+tensorflow
