@@ -1,6 +1,6 @@
 # Data Mining Portfolio | INF8111
 
-A collection of applied data-mining projects completed for the INF8111 course. The notebooks cover data preparation, association-rule mining, and fraud-oriented anomaly detection using Python.
+A collection of applied data-mining projects completed for the INF8111 course at Polytechnique Montréal. The notebooks cover data preparation, association-rule mining, and fraud-oriented anomaly detection using Python.
 
 **Focus areas:** data cleaning and feature engineering, exploratory analysis, frequent-itemset mining, association rules, anomaly detection, model evaluation, and communicating findings.
 
